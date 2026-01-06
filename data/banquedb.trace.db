@@ -1,0 +1,6 @@
+2026-01-06 09:12:37.033393+01:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPTE" not found (this database is empty); SQL statement:
+SELECT * FROM COMPTE [42104-240]
+2026-01-06 09:13:49.307076+01:00 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPTE" not found (this database is empty); SQL statement:
+SELECT * FROM COMPTE [42104-240]
