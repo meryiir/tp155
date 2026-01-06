@@ -13,7 +13,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tp155" />
+        <module name="graph" />
       </profile>
     </annotationProcessing>
   </component>
@@ -22,6 +22,7 @@
       <module name="demo" options="-parameters" />
       <module name="demo.main" options="-parameters" />
       <module name="demo.test" options="-parameters" />
+      <module name="graph" options="-parameters" />
       <module name="tp155" options="-parameters" />
     </option>
   </component>
